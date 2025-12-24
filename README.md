@@ -1,2 +1,3 @@
 # kywoosh.github.io
-hi i like femboys
+futurely a discord-like website. development in progress
+
